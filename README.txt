@@ -5,3 +5,5 @@ docker build -t cicd-buzz .
 
 2) Запустить контейнер следующим образом
 docker run -p 5000:5000 --rm -it cicd-buzz
+
+3) Открыть в браузере http://localhost:5000 
